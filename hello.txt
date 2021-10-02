@@ -8,3 +8,4 @@ hello git!!!!!!!!
 hello git!!!!!!!! master test11111
 hello git!!!!!!!! hot-fix test11111
 hello roy!
+免密登录！
